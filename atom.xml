@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wikineu.github.io/"/>
-  <updated>2017-08-26T17:18:09.000Z</updated>
+  <updated>2017-08-28T03:34:18.000Z</updated>
   <id>https://wikineu.github.io/</id>
   
   <author>
@@ -16,17 +16,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Welcome</title>
+    <title>欢迎来到WikiNEU</title>
     <link href="https://wikineu.github.io/wiki/index/"/>
     <id>https://wikineu.github.io/wiki/index/</id>
     <published>2017-08-25T17:55:57.000Z</published>
-    <updated>2017-08-26T17:18:09.000Z</updated>
+    <updated>2017-08-28T03:34:18.000Z</updated>
     
-    <content type="html"><![CDATA[<font size="12"> <a href="https://wikineu.github.io/">wikineu</a> </font>]]></content>
+    <content type="html"><![CDATA[<font size="4">&emsp;&emsp;欢迎来到<a href="https://wikineu.github.io/">WikiNEU</a>，这里传授大学经验～</font>
+
+<h2 id="本站宗旨"><a href="#本站宗旨" class="headerlink" title="本站宗旨"></a>本站宗旨</h2><font size="4">&emsp;&emsp;完全的公益组织，以维基的形式，借助GitHub，多人协作，通过学长学姐整合自己的大学经验，帮助后来的学弟学妹们。<br><br>&emsp;&emsp;薪火相传…今日你是受益者，明日你是传授者…<br></font>
+
+<h2 id="本站目标"><a href="#本站目标" class="headerlink" title="本站目标"></a>本站目标</h2><font size="4">&emsp;&emsp;让后来人对大学有一个较为清晰的认识，不那么迷茫。<br>&emsp;&emsp;能帮助一个同学，这个网站就有它的意义！<br></font>
+
+<h2 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h2><font size="4">&emsp;&emsp;本站提供站内搜索功能，你可以搜索任何你想知道的关于在大学学习生活问题的答案！<br><br>&emsp;&emsp;如果你的问题，本站尚且无法解决，请给本站留言或者直接在此条内容下提Issues！十分感激！<br></font>
+
+<h2 id="缓慢更新中…"><a href="#缓慢更新中…" class="headerlink" title="缓慢更新中…"></a>缓慢更新中…</h2><font size="4">&emsp;&emsp;敬请期待</font>
+]]></content>
     
     <summary type="html">
     
-      &lt;font size=&quot;12&quot;&gt; &lt;a href=&quot;https://wikineu.github.io/&quot;&gt;wikineu&lt;/a&gt; &lt;/font&gt;
+      &lt;font size=&quot;4&quot;&gt;&amp;emsp;&amp;emsp;欢迎来到&lt;a href=&quot;https://wikineu.github.io/&quot;&gt;WikiNEU&lt;/a&gt;，这里传授大学经验～&lt;/font&gt;
+
+&lt;h2 id=&quot;本站宗旨&quot;&gt;&lt;a href=&quot;#本站宗旨&quot; class=&quot;heade
     
     </summary>
     
@@ -34,11 +45,11 @@
   </entry>
   
   <entry>
-    <title>各种套路解读1</title>
-    <link href="https://wikineu.github.io/wiki/%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6/%E5%90%84%E7%A7%8D%E5%A5%97%E8%B7%AF%E8%A7%A3%E8%AF%BB1/"/>
-    <id>https://wikineu.github.io/wiki/新生入学/各种套路解读1/</id>
+    <title>新生入学</title>
+    <link href="https://wikineu.github.io/wiki/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6/"/>
+    <id>https://wikineu.github.io/wiki/日常生活/新生入学/</id>
     <published>2017-08-25T17:55:57.000Z</published>
-    <updated>2017-08-26T17:18:08.000Z</updated>
+    <updated>2017-08-28T03:05:02.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="电话卡"><a href="#电话卡" class="headerlink" title="电话卡"></a>电话卡</h2><h2 id="书籍购买"><a href="#书籍购买" class="headerlink" title="书籍购买"></a>书籍购买</h2><h2 id="日常用品购买"><a href="#日常用品购买" class="headerlink" title="日常用品购买"></a>日常用品购买</h2>]]></content>
     
@@ -48,7 +59,7 @@
     
     </summary>
     
-      <category term="新生入学" scheme="https://wikineu.github.io/categories/%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6/"/>
+      <category term="日常生活" scheme="https://wikineu.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
     
     
       <category term="大一" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%80/"/>
