@@ -71,8 +71,8 @@ module.exports = function(grunt) {
         // }
         
     });
-    grunt.registerTask('update',['gitPull','copy']);
+    grunt.registerTask('update',['gitPull','copy']);//将GitHub上面的更新pull下来到build-new，并且拷贝更新到source文件夹中
     grunt.registerTask('pre', ['clean','copy']);
     grunt.registerTask('syn', 'gh-pages');
-    grunt.registerTask('wiki_src', ['clean','copy','gh-pages']);
+    grunt.registerTask('wiki_src', ['clean','copy','gh-pages']);//将本地的资源文件等更新到.grunt以及build的文件夹下并push到GitHub上
 };
