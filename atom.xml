@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wikineu.github.io/"/>
-  <updated>2017-09-23T06:39:37.000Z</updated>
+  <updated>2017-09-23T07:47:52.000Z</updated>
   <id>https://wikineu.github.io/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>利用GitHub进行协作开发本站教程</title>
+    <link href="https://wikineu.github.io/wiki/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/%E5%88%A9%E7%94%A8GitHub%E8%BF%9B%E8%A1%8C%E5%8D%8F%E4%BD%9C%E5%BC%80%E5%8F%91%E6%9C%AC%E7%AB%99%E6%95%99%E7%A8%8B/"/>
+    <id>https://wikineu.github.io/wiki/网站相关/利用GitHub进行协作开发本站教程/</id>
+    <published>2017-09-23T07:09:25.000Z</published>
+    <updated>2017-09-23T07:47:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="创建一个GitHub账号"><a href="#创建一个GitHub账号" class="headerlink" title="创建一个GitHub账号"></a>创建一个GitHub账号</h3><p>&emsp;&emsp;由于本站设计的特殊性，要求协作者必须拥有一个GitHub账号进行协作。敬请见谅。但我想，这也将成为它的魅力所在。(光想想能够利用版控系统进行创作，那是一件多么sexy的事情啊！)<br><br><img src="http://owq13vxqt.bkt.clouddn.com/1.jpg" alt="使用邮箱，申请一个GitHub账号"><br>&emsp;&emsp;如果你细心观察我们的网站，你会发现，在内容页面中，主要出现如下几部分。<br><br><img src="http://owq13vxqt.bkt.clouddn.com/3.jpg" alt="内容页面构成"><br>&emsp;&emsp;我们现在主要关注右上角的部分。</p>
+<h3 id="点击History进入文章版控历史追踪"><a href="#点击History进入文章版控历史追踪" class="headerlink" title="点击History进入文章版控历史追踪"></a>点击History进入文章版控历史追踪</h3><p><br><img src="http://owq13vxqt.bkt.clouddn.com/4.jpg" alt="版控记录"><br>&emsp;&emsp;这里利用GitHub记录着完整的编辑历史记录！点击Source则能看到完整的文章Markdown源代码。这里不再展示。留待你自己去发现。</p>
+<h3 id="点击Edit，正式进入协作流程"><a href="#点击Edit，正式进入协作流程" class="headerlink" title="点击Edit，正式进入协作流程"></a>点击Edit，正式进入协作流程</h3><p>&emsp;&emsp;首先，你需要fork这个项目到你的账号下。(当然前提是你登录了GitHub：)<br><br><img src="http://owq13vxqt.bkt.clouddn.com/5.jpg" alt="点击fork"><br>&emsp;&emsp;之后，你将来到编辑页面。这里暂时不介绍Markdown语法的文章如何书写。<br><br><img src="http://owq13vxqt.bkt.clouddn.com/6.jpg" alt="编辑页面"><br>&emsp;&emsp;我们试着添加一些内容,例如我很主观的填写了我认为这门课程教材购买的必要性星级(相信我，这是对的)。<br><br><img src="http://owq13vxqt.bkt.clouddn.com/7.jpg" alt="添加课程教材购买星级"><br>&emsp;&emsp;很好，此时我们已经完成添加。但是，在线的编辑器没有预览功能，你还看不到效果(进一步，我们推荐你clone这个项目到本地，利用本地的Markdown编辑器进行写作，这里就不再展开)。<br>&emsp;&emsp;非常重要的！我们需要提交这个修改给管理员，否则这个修改只在你自己的分支。<br><br><img src="http://owq13vxqt.bkt.clouddn.com/8.jpg" alt="提交修改"><br><br><img src="http://owq13vxqt.bkt.clouddn.com/9.jpg" alt="确认修改无误，提交"><br><br><img src="http://owq13vxqt.bkt.clouddn.com/10.jpg" alt="再次确认修改提交信息，确保万无一失"><br>&emsp;&emsp;至此，你的这次修改工作已经做完。静待管理员来merge。<br><br><img src="http://owq13vxqt.bkt.clouddn.com/11.jpg" alt="管理员视角"><br>&emsp;&emsp;题外话：为了完整演示整个流程，我们换管理员上线。</p>
+<h3 id="负责任的管理员上线"><a href="#负责任的管理员上线" class="headerlink" title="负责任的管理员上线"></a>负责任的管理员上线</h3><p>&emsp;&emsp;管理员会看到你的P.R.<br><br><img src="http://owq13vxqt.bkt.clouddn.com/12.jpg" alt="管理员视角"><br><br><img src="http://owq13vxqt.bkt.clouddn.com/14.jpg" alt="管理员merge你的修改"></p>
+<h3 id="再次点击History"><a href="#再次点击History" class="headerlink" title="再次点击History"></a>再次点击History</h3><p><br><img src="http://owq13vxqt.bkt.clouddn.com/15.jpg" alt="看到了我们的提交"></p>
+<h3 id="刷新页面"><a href="#刷新页面" class="headerlink" title="刷新页面"></a>刷新页面</h3><p>&emsp;&emsp;由于时间问题，通常你不会看到马上更新的页面，但请你放心。我们一定会在看到的第一时间处理你的PR!<br><br><img src="http://owq13vxqt.bkt.clouddn.com/1.gif" alt="更新的页面"></p>
+<h3 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h3><p>&emsp;&emsp;也许你也发现了，为了这个项目的后续继续发展。其实我们没有利用私人邮箱账号进行开通。所以，你大可以放心加入这个计划！你的贡献一点一滴都会被看到。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;创建一个GitHub账号&quot;&gt;&lt;a href=&quot;#创建一个GitHub账号&quot; class=&quot;headerlink&quot; title=&quot;创建一个GitHub账号&quot;&gt;&lt;/a&gt;创建一个GitHub账号&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;由于本站设计的特殊性，要求协作者必须
+    
+    </summary>
+    
+      <category term="网站相关" scheme="https://wikineu.github.io/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/"/>
+    
+    
+      <category term="Github" scheme="https://wikineu.github.io/tags/Github/"/>
+    
+      <category term="WikiNEU" scheme="https://wikineu.github.io/tags/WikiNEU/"/>
+    
+  </entry>
   
   <entry>
     <title>线性代数</title>
