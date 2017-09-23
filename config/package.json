@@ -37,5 +37,9 @@
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
+  },
+  "devDependencies": {
+    "grunt-gitpull": "^0.3.0",
+    "time-grunt": "^1.4.0"
   }
 }
