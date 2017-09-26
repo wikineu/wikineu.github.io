@@ -509,11 +509,6 @@ code {
 #sub-nav #profile-nav .fa {
   line-height: 40px;
 }
-@media screen and (max-width: 559px) {
-  #search-form-wrap {
-    display: none;
-  }
-}
 #search-form-wrap .search-form {
   position: relative;
 }
@@ -604,23 +599,6 @@ code {
 }
 #main-nav-mobile .menu:after {
   clear: both;
-}
-#main-nav-mobile .menu .search-form-input {
-  display: none;
-  padding: 0 10px;
-  margin-right: 15px;
-  height: 30px;
-  line-height: 30px;
-  border-radius: 15px;
-}
-@media screen and (max-width: 559px) {
-  #main-nav-mobile .menu .search-form-input {
-    display: block;
-  }
-}
-#main-nav-mobile .menu .search-form-input::-webkit-search-results-decoration,
-#main-nav-mobile .menu .search-form-input::-webkit-search-cancel-button {
-  -webkit-appearance: none;
 }
 .bio {
   text-align: center;
@@ -1150,6 +1128,7 @@ div .article-more-link {
 }
 #article-nav {
   position: relative;
+  margin: 40px 0;
 }
 #article-nav:before,
 #article-nav:after {
@@ -1159,22 +1138,17 @@ div .article-more-link {
 #article-nav:after {
   clear: both;
 }
-@media screen and (min-width: 1200px) {
-  #article-nav {
-    margin: 40px 0;
-  }
-  #article-nav:before {
-    width: 8px;
-    height: 8px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -4px;
-    margin-left: -4px;
-    content: "";
-    border-radius: 50%;
-    background: #787c81;
-  }
+#article-nav:before {
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -4px;
+  margin-left: -4px;
+  content: "";
+  border-radius: 50%;
+  background: #787c81;
 }
 .article-nav-link-wrap {
   text-decoration: none;
@@ -1185,29 +1159,21 @@ div .article-more-link {
   margin-top: 40px;
   text-align: center;
   display: block;
+  width: 50%;
+  margin-top: 0;
 }
 .article-nav-link-wrap:hover {
   color: #565a5f;
 }
-@media screen and (min-width: 1200px) {
-  .article-nav-link-wrap {
-    width: 50%;
-    margin-top: 0;
-  }
+#article-nav-newer {
+  float: left;
+  text-align: right;
+  padding-right: 20px;
 }
-@media screen and (min-width: 1200px) {
-  #article-nav-newer {
-    float: left;
-    text-align: right;
-    padding-right: 20px;
-  }
-}
-@media screen and (min-width: 1200px) {
-  #article-nav-older {
-    float: right;
-    text-align: left;
-    padding-left: 20px;
-  }
+#article-nav-older {
+  float: right;
+  text-align: left;
+  padding-left: 20px;
 }
 .article-nav-caption {
   letter-spacing: 2px;
