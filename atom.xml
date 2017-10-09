@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wikineu.github.io/"/>
-  <updated>2017-09-23T07:47:52.000Z</updated>
+  <updated>2017-10-09T15:10:30.000Z</updated>
   <id>https://wikineu.github.io/</id>
   
   <author>
@@ -16,9 +16,229 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>数据结构</title>
+    <link href="https://wikineu.github.io/wiki/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E4%B8%93%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>https://wikineu.github.io/wiki/课程经验/专业平台/计算机专业/数据结构/数据结构/</id>
+    <published>2017-10-09T15:07:36.000Z</published>
+    <updated>2017-10-09T15:10:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="课程经验" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/"/>
+    
+      <category term="专业平台" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E4%B8%93%E4%B8%9A%E5%B9%B3%E5%8F%B0/"/>
+    
+      <category term="计算机专业" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E4%B8%93%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/"/>
+    
+      <category term="数据结构" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E4%B8%93%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+      <category term="大二" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%BA%8C/"/>
+    
+      <category term="大二上" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%BA%8C%E4%B8%8A/"/>
+    
+      <category term="计算机" scheme="https://wikineu.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机图形学</title>
+    <link href="https://wikineu.github.io/wiki/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E4%B8%93%E9%A2%98%E9%80%89%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/"/>
+    <id>https://wikineu.github.io/wiki/课程经验/专题选修/计算机专业/计算机图形学/计算机图形学/</id>
+    <published>2017-10-09T15:05:02.000Z</published>
+    <updated>2017-10-09T15:07:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="课程经验" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/"/>
+    
+      <category term="专题选修" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E4%B8%93%E9%A2%98%E9%80%89%E4%BF%AE/"/>
+    
+      <category term="计算机专业" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E4%B8%93%E9%A2%98%E9%80%89%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/"/>
+    
+      <category term="计算机图形学" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E4%B8%93%E9%A2%98%E9%80%89%E4%BF%AE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/"/>
+    
+    
+      <category term="大三" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%89/"/>
+    
+      <category term="大三上" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%89%E4%B8%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机技能训练</title>
+    <link href="https://wikineu.github.io/wiki/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E5%AE%9E%E8%B7%B5%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E8%83%BD%E8%AE%AD%E7%BB%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E8%83%BD%E8%AE%AD%E7%BB%83/"/>
+    <id>https://wikineu.github.io/wiki/课程经验/实践类/计算机专业/计算机技能训练/计算机技能训练/</id>
+    <published>2017-10-09T14:48:42.000Z</published>
+    <updated>2017-10-09T15:04:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;本课是<a href="">C语言</a>的课程设计。<br>&emsp;&emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！</p>
+<h3 id="课程简介"><a href="#课程简介" class="headerlink" title="课程简介"></a>课程简介</h3><p>&emsp;&emsp;本课分组制，大约3～4人。一般组长分高。除了完成实验部分(代码量 &lt;= 300行)。<br>&emsp;&emsp;很水，真的不建议搭车。我强烈建议每个课设都自己做。不管你去找代码还是自己写。除非你不打算从事这个专业的工作。</p>
+<h3 id="得分经验"><a href="#得分经验" class="headerlink" title="得分经验"></a>得分经验</h3><p>&emsp;&emsp;好好写报告。更多内容需要你的添加，请加入我们！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;本课是&lt;a href=&quot;&quot;&gt;C语言&lt;/a&gt;的课程设计。&lt;br&gt;&amp;emsp;&amp;emsp;本经验以计算机专业为例，更多内
+    
+    </summary>
+    
+      <category term="课程经验" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/"/>
+    
+      <category term="实践类" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E5%AE%9E%E8%B7%B5%E7%B1%BB/"/>
+    
+      <category term="计算机专业" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E5%AE%9E%E8%B7%B5%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/"/>
+    
+      <category term="计算机技能训练" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E5%AE%9E%E8%B7%B5%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E8%83%BD%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="大一" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%80/"/>
+    
+      <category term="专业必修" scheme="https://wikineu.github.io/tags/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/"/>
+    
+      <category term="大一下" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%80%E4%B8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>程序设计基础-C语言</title>
+    <link href="https://wikineu.github.io/wiki/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80-C%E8%AF%AD%E8%A8%80/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80-C%E8%AF%AD%E8%A8%80/"/>
+    <id>https://wikineu.github.io/wiki/课程经验/工程技术基础/计算机专业/程序设计基础-C语言/程序设计基础-C语言/</id>
+    <published>2017-10-09T14:12:03.000Z</published>
+    <updated>2017-10-09T15:04:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！</p>
+<h3 id="教材购买必要性"><a href="#教材购买必要性" class="headerlink" title="教材购买必要性"></a>教材购买必要性</h3><p>&emsp;&emsp;★★★★☆<br>&emsp;&emsp;老师使用PPT授课，也可以自行打印PPT，但是这种专业课最好还是买一本放手里随时翻翻，没有必要买全新的书，还是推荐直接买二手的即可。购买时留意书本版本信息，我们不能保证每个人的人品，希望你自己小心谨慎一些。另外还可以直接用图书馆的。<br>&emsp;&emsp;电子资源较多，但是还是推荐使用纸质材料。简单为你整理在了<a href="#ref_jump">参考资料</a>中，链接下载即可。</p>
+<h3 id="成绩组成"><a href="#成绩组成" class="headerlink" title="成绩组成"></a>成绩组成</h3><p>&emsp;&emsp;平时10+实验20+期末70<br>&emsp;&emsp;这门课还有一个<a href="">课程设计</a>即大作业。除非你打算转专业到非计算机专业，否则请认真对待。</p>
+<h3 id="课程评论-经验"><a href="#课程评论-经验" class="headerlink" title="课程评论||经验"></a>课程评论||经验</h3><p>&emsp;&emsp;对于这门在我看来对本专业学生如此重要的入门编程课，我感受不到学院对其在学科建设中的重要性。不说师资了，建议多花时间自学。如多加编程练习，罗马不是一天建成的，可视化界面固然酷炫，但希望踏踏实实的在控制台编程。可以参考acm的同学到各大OJ上面刷题。<br>&emsp;&emsp;稍后会放出编程工具的基本介绍帖子。也欢迎你来编辑&amp;&amp;补充。<br>&emsp;&emsp;实验报告：尽管老师说要缩率实验截图，但是我这么做了，却被扣了8分…我所摸索的实验部分得分套路：建议在打印实验报告时，封面使用模板，实验截图不要使用说略图，整的越利索越厚越好…实验报告可以参考百度文库上的内容。</p>
+<h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a><span id="ref_jump">参考资料</span></h3><p>&emsp;&emsp;如有更好资源，欢迎补充添加。如你遇失效问题，请提issues或email具体问题到<a href="wikineu@163.com">wikineu@163.com</a></p>
+<blockquote>
+<ul>
+<li><a href="http://pan.baidu.com/s/1dFEkRhZ" rel="external nofollow noopener noreferrer" target="_blank">文本材料链接地址</a> 密码:qkcd<br></li>
+<li><a href="http://pan.baidu.com/s/1bprUp5d" rel="external nofollow noopener noreferrer" target="_blank">视频教材链接地址</a> 密码:cgya</li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！&lt;/p&gt;
+&lt;h3 id=&quot;教材购买必要性&quot;&gt;&lt;a href
+    
+    </summary>
+    
+      <category term="课程经验" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/"/>
+    
+      <category term="工程技术基础" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/"/>
+    
+      <category term="计算机专业" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/"/>
+    
+      <category term="程序设计基础-C语言" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80-C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="大一" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%80/"/>
+    
+      <category term="大一上" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%80%E4%B8%8A/"/>
+    
+      <category term="专业必修" scheme="https://wikineu.github.io/tags/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新知识选修须知</title>
+    <link href="https://wikineu.github.io/wiki/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E6%96%B0%E7%9F%A5%E8%AF%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/%E6%96%B0%E7%9F%A5%E8%AF%86%E9%80%89%E4%BF%AE%E9%A1%BB%E7%9F%A5/"/>
+    <id>https://wikineu.github.io/wiki/课程经验/新知识/计算机专业/新知识选修须知/</id>
+    <published>2017-10-09T14:04:25.000Z</published>
+    <updated>2017-10-09T14:08:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="选课经验"><a href="#选课经验" class="headerlink" title="选课经验"></a>选课经验</h3><p>&emsp;&emsp;更多内容需要你的添加，请加入我们！</p>
+<h3 id="提高挂科警惕"><a href="#提高挂科警惕" class="headerlink" title="提高挂科警惕"></a>提高挂科警惕</h3><p>&emsp;&emsp;有过学长学姐挂科先例。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;选课经验&quot;&gt;&lt;a href=&quot;#选课经验&quot; class=&quot;headerlink&quot; title=&quot;选课经验&quot;&gt;&lt;/a&gt;选课经验&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;更多内容需要你的添加，请加入我们！&lt;/p&gt;
+&lt;h3 id=&quot;提高挂科警惕&quot;&gt;&lt;a href=&quot;#提高
+    
+    </summary>
+    
+      <category term="课程经验" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/"/>
+    
+      <category term="新知识" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E6%96%B0%E7%9F%A5%E8%AF%86/"/>
+    
+      <category term="计算机专业" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E6%96%B0%E7%9F%A5%E8%AF%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/"/>
+    
+    
+      <category term="大四上" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E5%9B%9B%E4%B8%8A/"/>
+    
+      <category term="新知识选修" scheme="https://wikineu.github.io/tags/%E6%96%B0%E7%9F%A5%E8%AF%86%E9%80%89%E4%BF%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>毛泽东思想和中国特色社会主义理论体系结构</title>
+    <link href="https://wikineu.github.io/wiki/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/"/>
+    <id>https://wikineu.github.io/wiki/课程经验/社会科学/毛泽东思想和中国特色社会主义理论体系结构/毛泽东思想和中国特色社会主义理论体系结构/</id>
+    <published>2017-10-09T13:14:22.000Z</published>
+    <updated>2017-10-09T14:04:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！</p>
+<h3 id="教材购买必要性"><a href="#教材购买必要性" class="headerlink" title="教材购买必要性"></a>教材购买必要性</h3><p>&emsp;&emsp;★★☆☆☆<br>&emsp;&emsp;老师使用PPT授课，买书纯粹为了心安，一般你也不看。虽然老师说教材会更新，但是…反正没听说过买了新教材的同学答了满分的…如特别需购买，可以考虑向学长学姐要本压压惊…</p>
+<h3 id="关于分组关于分数"><a href="#关于分组关于分数" class="headerlink" title="关于分组关于分数"></a>关于分组关于分数</h3><p>&emsp;&emsp;以下经验整理自<a href="">颖神</a>，欢迎补充以及参与整理。</p>
+<blockquote>
+<ol>
+<li>在最终的分组答辩中，A档和C档分差一般在5分左右</li>
+<li>以颖神为例，个人是组长，作业认真完成，有展示，平时扣分6分。其他同学有扣1分的，基本上扣5分左右或者10分左右</li>
+<li>毛概期末40 + 平时60(平时出勤等+期中小报告15+小组答辩：包括经典品读等)</li>
+<li>个人是两个半天一共一天，前半天看书，后半天刷题，扣了5分，仅供参考。</li>
+<li>大部分人基本扣分10分左右，很少超过20分，所以放轻松。</li>
+</ol>
+</blockquote>
+<h3 id="课程评论"><a href="#课程评论" class="headerlink" title="课程评论"></a>课程评论</h3><p>&emsp;&emsp;玩心指数：★★★★★<br>&emsp;&emsp;不需要刷题，刷的也是假题库。<br>&emsp;&emsp;更多内容需要你的添加，请加入我们！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;本经验以计算机专业为例，更多内容需要你的添加，请加入我们！&lt;/p&gt;
+&lt;h3 id=&quot;教材购买必要性&quot;&gt;&lt;a href
+    
+    </summary>
+    
+      <category term="课程经验" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/"/>
+    
+      <category term="社会科学" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6/"/>
+    
+      <category term="毛泽东思想和中国特色社会主义理论体系结构" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/"/>
+    
+    
+      <category term="大三" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%89/"/>
+    
+      <category term="大三上" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%89%E4%B8%8A/"/>
+    
+      <category term="公共必修" scheme="https://wikineu.github.io/tags/%E5%85%AC%E5%85%B1%E5%BF%85%E4%BF%AE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>利用GitHub进行协作开发本站教程</title>
-    <link href="https://wikineu.github.io/wiki/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/%E5%88%A9%E7%94%A8GitHub%E8%BF%9B%E8%A1%8C%E5%8D%8F%E4%BD%9C%E5%BC%80%E5%8F%91%E6%9C%AC%E7%AB%99%E6%95%99%E7%A8%8B/"/>
-    <id>https://wikineu.github.io/wiki/网站相关/利用GitHub进行协作开发本站教程/</id>
+    <link href="https://wikineu.github.io/wiki/%E6%9C%AC%E7%AB%99%E7%9B%B8%E5%85%B3/%E5%88%A9%E7%94%A8GitHub%E8%BF%9B%E8%A1%8C%E5%8D%8F%E4%BD%9C%E5%BC%80%E5%8F%91%E6%9C%AC%E7%AB%99%E6%95%99%E7%A8%8B/"/>
+    <id>https://wikineu.github.io/wiki/本站相关/利用GitHub进行协作开发本站教程/</id>
     <published>2017-09-23T07:09:25.000Z</published>
     <updated>2017-09-23T07:47:52.000Z</updated>
     
@@ -37,7 +257,7 @@
     
     </summary>
     
-      <category term="网站相关" scheme="https://wikineu.github.io/categories/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/"/>
+      <category term="本站相关" scheme="https://wikineu.github.io/categories/%E6%9C%AC%E7%AB%99%E7%9B%B8%E5%85%B3/"/>
     
     
       <category term="Github" scheme="https://wikineu.github.io/tags/Github/"/>
@@ -48,29 +268,33 @@
   
   <entry>
     <title>线性代数</title>
-    <link href="https://wikineu.github.io/wiki/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
-    <id>https://wikineu.github.io/wiki/课程经验/线性代数/线性代数/</id>
+    <link href="https://wikineu.github.io/wiki/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E6%95%B0%E5%AD%A6%E4%B8%8E%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
+    <id>https://wikineu.github.io/wiki/课程经验/数学与自然科学/线性代数/线性代数/</id>
     <published>2017-09-21T14:16:06.000Z</published>
-    <updated>2017-09-23T06:39:37.000Z</updated>
+    <updated>2017-10-09T14:08:37.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;内容需要添加，请加入我们！</p>
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;更多内容需要添加，请加入我们！</p>
 <h3 id="教材购买必要性"><a href="#教材购买必要性" class="headerlink" title="教材购买必要性"></a>教材购买必要性</h3><p>&emsp;&emsp;★★★☆☆<br>&emsp;&emsp;尽管它属于必修课程，但是老师会使用PPT授课，因此并不一定需要购买教材。打印PPT也可以。如需购买，推荐购买学长学姐的二手书籍。</p>
 <h3 id="课程评论"><a href="#课程评论" class="headerlink" title="课程评论"></a>课程评论</h3><p>&emsp;&emsp;这门课非常重要，如果你以后需要从事如机器学习等相关领域的研究请一定要学好这门课。由于学校的课程中文授课，推荐辅助观看<a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA16.html" rel="external nofollow noopener noreferrer" target="_blank">台大李宏毅老师的线性代数公开课</a>。中英文形式授课。而且比较幽默。但是和我们的课程安排顺序有差，需要注意。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;内容需要添加，请加入我们！&lt;/p&gt;
-&lt;h3 id=&quot;教材购买必要性&quot;&gt;&lt;a href=&quot;#教材购买必要性&quot; clas
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;更多内容需要添加，请加入我们！&lt;/p&gt;
+&lt;h3 id=&quot;教材购买必要性&quot;&gt;&lt;a href=&quot;#教材购买必要性&quot; cl
     
     </summary>
     
       <category term="课程经验" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/"/>
     
-      <category term="线性代数" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
+      <category term="数学与自然科学" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E6%95%B0%E5%AD%A6%E4%B8%8E%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6/"/>
+    
+      <category term="线性代数" scheme="https://wikineu.github.io/categories/%E8%AF%BE%E7%A8%8B%E7%BB%8F%E9%AA%8C/%E6%95%B0%E5%AD%A6%E4%B8%8E%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
     
     
       <category term="大一" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%80/"/>
+    
+      <category term="大一上" scheme="https://wikineu.github.io/tags/%E5%A4%A7%E4%B8%80%E4%B8%8A/"/>
     
       <category term="必修" scheme="https://wikineu.github.io/tags/%E5%BF%85%E4%BF%AE/"/>
     
@@ -83,14 +307,15 @@
     <link href="https://wikineu.github.io/wiki/index/"/>
     <id>https://wikineu.github.io/wiki/index/</id>
     <published>2017-08-25T17:55:57.000Z</published>
-    <updated>2017-09-23T05:53:00.000Z</updated>
+    <updated>2017-10-09T15:31:10.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="加入我们，开启维基东大新纪元"><a href="#加入我们，开启维基东大新纪元" class="headerlink" title="加入我们，开启维基东大新纪元"></a>加入我们，开启维基东大新纪元</h2><p>&emsp;&emsp;编辑你的大学经验,和我们一起打造属于NEUer自己的大学经验维基知识库!</p>
+    <content type="html"><![CDATA[<h2 id="加入我们，开启维基东大新纪元"><a href="#加入我们，开启维基东大新纪元" class="headerlink" title="加入我们，开启维基东大新纪元"></a>加入我们，开启维基东大新纪元</h2><p>&emsp;&emsp;编辑你的大学经验,和我们一起打造属于NEUer自己的大学经验维基知识库!<br>&emsp;&emsp;sharing your experience &amp;&amp; creating your history!</p>
 <h2 id="如无意外，我们保证"><a href="#如无意外，我们保证" class="headerlink" title="如无意外，我们保证"></a>如无意外，我们保证</h2><ul>
-<li>永远<font color="#0066CC">免费开放</font>！</li>
-<li>永远<font color="#0066CC">保持更新</font>！</li>
+<li>永远<span color="#0066CC">更新</span>！</li>
+<li>永远<span color="#0066CC">免费开放</span>！</li>
 </ul>
-<h2 id="缓慢更新中，需要你的加入来加速这个过程"><a href="#缓慢更新中，需要你的加入来加速这个过程" class="headerlink" title="缓慢更新中，需要你的加入来加速这个过程!"></a>缓慢更新中，需要你的加入来加速这个过程!</h2><p>&emsp;&emsp;敬请期待～</p>
+<h2 id="缓慢更新中，需要你的加入来加速这个过程"><a href="#缓慢更新中，需要你的加入来加速这个过程" class="headerlink" title="缓慢更新中，需要你的加入来加速这个过程!"></a>缓慢更新中，需要你的加入来加速这个过程!</h2><p>&emsp;&emsp;本站使用PC端浏览体验更加，敬请期待，欢迎加入我们<a href="http://www.runoob.com/w3cnote/git-guide.html" rel="external nofollow noopener noreferrer" target="_blank">点击进入教程学习</a>～</p>
+<h2 id="版权声明"><a href="#版权声明" class="headerlink" title="版权声明"></a>版权声明</h2><p>&emsp;&emsp;本站所有内容属于参与本站内容编辑的所有人，并遵循<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" rel="external nofollow noopener noreferrer" target="_blank">CC BY-NC-ND 4.0协议</a>。</p>
 ]]></content>
     
     <summary type="html">
