@@ -11,8 +11,8 @@ layout: about
 &emsp;&emsp;sharing your experience && creating your history!
 
 ## 如无意外，我们保证
-- 永远<span color=#0066CC>更新</span>！
-- 永远<span color=#0066CC>免费开放</span>！
+- 永远<font color=#0066CC>更新</font>！
+- 永远<font color=#0066CC>免费开放</font>！
 
 ## 缓慢更新中，需要你的加入来加速这个过程!
 &emsp;&emsp;本站使用PC端浏览体验更加，敬请期待，欢迎加入我们[点击进入教程学习](http://www.runoob.com/w3cnote/git-guide.html)～

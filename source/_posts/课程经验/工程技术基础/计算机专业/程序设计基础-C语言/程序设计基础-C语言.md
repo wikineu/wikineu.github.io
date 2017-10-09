@@ -26,5 +26,5 @@ tags:
 
 ### <span id="ref_jump">参考资料</span>
 &emsp;&emsp;如有更好资源，欢迎补充添加。如你遇失效问题，请提issues或email具体问题到[wikineu@163.com](wikineu@163.com)
-> - [文本材料链接地址](http://pan.baidu.com/s/1dFEkRhZ) 密码:qkcd<br/>
-> - [视频教材链接地址](http://pan.baidu.com/s/1bprUp5d) 密码:cgya
+- [文本材料链接地址](http://pan.baidu.com/s/1dFEkRhZ) 密码:qkcd<br/>
+- [视频教材链接地址](http://pan.baidu.com/s/1bprUp5d) 密码:cgya
